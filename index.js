@@ -26,14 +26,13 @@
     <section class="intro">
         <div class="container main">
             <div class="profile-img">
-                <img class="images img-w" src="https://t4.ftcdn.net/jpg/06/98/13/79/360_F_698137979_1m3HCrBAG9padbzDKeFgr7YzKzeTcROQ.jpg" alt="Profile Image">
+                <img class="images img-w" src="https://tse1.mm.bing.net/th/id/OIP.8_QIgtX9mY2cCSvRHwTwmgHaHa?r=0&pid=ImgDet&w=178&h=178&c=7&dpr=1.5&o=7&rm=3" alt="Profile Image">
             </div>
             <div class="profile-info">
                 <h3>Hi, I'm</h3>
-                <h1><span class="name">Pavan Gowda</span></h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis illo pariatur voluptate sunt,
-                    minima veritatis ipsum a maiores necessitatibus, nam maxime aspernatur iusto quas aliquid
-                    voluptatem, in quaerat molestias. Repellat.</p>
+                <h1><span class="name">Anu Priya</span></h1>
+                <p>Innovative front-end developer with a strong fondation in component-driven architecture and mordern react-based solutions.
+                   Adept at crafting, scalable, reusable components and implementing responsive design principles to deliver seamless, engaging user experiences.</p>
                 
             </div>
         </div>
@@ -47,9 +46,9 @@
                         <i class='bx bx-code-block'></i>
                     </div>
                     <div class="about-info">
-                        <h3>Software Developer</h3>
+                        <h3> Developer</h3>
                         <p>I have a deep passion for creating software solutions that solve real-world problems. With a
-                            strong background in various programming languages and frameworks, I aim to build efficient
+                            strong background in React JS, I build efficient
                             and scalable applications.</p>
                     </div>
                 </div>
@@ -57,12 +56,7 @@
                     <div class="about-icon">
                         <i class='bx bx-chalkboard'></i>
                     </div>
-                    <div class="about-info">
-                        <h3>Technical Trainer</h3>
-                        <p>As a technical trainer, I enjoy sharing my knowledge and helping others to improve their
-                            skills. I have experience in conducting workshops and training sessions on various software
-                            development topics.</p>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -109,18 +103,18 @@
     <section id="contact" class="contact-section">
         <div class="contact">
             <div class="contact-content">
-                <a href="mailto:suhas@pentagonspace.in">
-                    <i class="fas fa-envelope"></i> pavan.s@pentagonspace.in
+                <a href="mailto: anupld932003@gmail.com">
+                    <i class="fas fa-envelope"></i> anupld932003@gmail.com
                 </a>
             </div>
             <div class="social-media">
-                <a href="https://www.linkedin.com/in/pavan-s-888370252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+                <a href="https://www.linkedin.com/in/anu-priya-8bb26130b/" target="_blank">
                     <i class="bx bxl-linkedin-square"></i>
                 </a>
-                <a href="https://www.instagram.com/pavangowda_09/" target="_blank">
+                <a href="https://www.instagram.com/_a_anu03/" target="_blank">
                     <i class="bx bxl-instagram"></i>
                 </a>
-                <a href="https://github.com/Pavan7355" target="_blank">
+                <a href="https://github.com/AnuInfinity" target="_blank">
                     <i class="bx bxl-github"></i>
                 </a>
             </div>
